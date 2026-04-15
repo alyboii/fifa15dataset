@@ -1,0 +1,20 @@
+# Mac sistem dosyaları
+.DS_Store
+
+# Jupyter checkpoint'leri
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# Virtual environment
+venv/
+env/
+
+# Büyük CSV dosyaları (dataset git'e girmemeli, README'de link ver)
+*.csv
