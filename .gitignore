@@ -16,5 +16,6 @@ __pycache__/
 venv/
 env/
 
-# Büyük CSV dosyaları (dataset git'e girmemeli, README'de link ver)
+# CSV dosyaları (players_15.csv deploy için dahil edildi)
 *.csv
+!fifa15dataset/players_15.csv
