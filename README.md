@@ -111,7 +111,5 @@ Radar charts give an immediate visual sense of a player's profile. Side-by-side 
 
 ## About
 
-Built as part of a data science internship program.
-
 **Stack:** Python · Pandas · NumPy · scikit-learn · Streamlit · Plotly  
 **Author:** Ali · [GitHub](https://github.com/alyboii)
